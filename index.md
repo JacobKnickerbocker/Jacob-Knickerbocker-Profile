@@ -8,8 +8,6 @@ header:
 
 <img src="https://github.com/JacobKnickerbocker/Jacob-Knickerbocker-Profile/blob/main/assets/images/headshot.jpg?raw=true" width="50%" hspace="20" align="right">
 
-*This unofficial profile was created as a demo of a job market website in Jekyll, hosted on GitHub Pages.*
-
 My name is Jacob Knickerbocker and I am currently pursuing a bachelor's degree in Computer Science at Northern Illinois University!
 
 I'm a determined individual who loves to work with others and with technology! My current emphasis is with Enterprise Software with the end goal of developing software and video games using various coding languages and engines!
