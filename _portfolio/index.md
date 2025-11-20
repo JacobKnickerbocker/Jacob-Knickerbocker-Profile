@@ -9,9 +9,6 @@ permalink: /portfolio/index.html
 
 # Research
 
-<details markdown="1"><summary>Blog Title</summary>
-  Blog Contents</details>
-
 <details markdown="2"><summary>Blog Title</summary>
   Blog Contents</details>
 
