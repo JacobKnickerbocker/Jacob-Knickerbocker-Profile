@@ -6,32 +6,32 @@ permalink: /portfolio/index.html
 ---
 
 # Research
-<details>
+<details markdown="1">
   <summary>Blog Title</summary>
   Blog Details
 </details>
 
-<details>
+<details markdown="1">
   <summary>Blog Title</summary>
   Blog Details
 </details>
 
-<details>
+<details markdown="1">
   <summary>Blog Title</summary>
   Blog Details
 </details>
 
-<details>
+<details markdown="1">
   <summary>Blog Title</summary>
   Blog Details
 </details>
 
-<details>
+<details markdown="1">
   <summary>Blog Title</summary>
   Blog Details
 </details>
 
-<details>
+<details markdown="1">
   <summary>Blog Title</summary>
   Blog Details
 </details>
