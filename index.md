@@ -6,18 +6,18 @@ header:
 
 # Welcome​
 
-<img src="https://github.com/ECON-691/Jekyll-for-Job-Market/blob/master/assets/images/fancyMission.jpg?raw=true" width="50%" hspace="20" align="right">
+<img src="https://github.com/JacobKnickerbocker/Jacob-Knickerbocker-Profile/blob/main/assets/images/headshot.jpg?raw=true" width="50%" hspace="20" align="right">
 
 *This unofficial profile was created as a demo of a job market website in Jekyll, hosted on GitHub Pages.*
 
-My name is Mission III, and I am the official Huskie mascot at Northern Illinois University.
+My name is Jacob Knickerbocker and I am currently pursuing a bachelor's degree in Computer Science at Northern Illinois University!
 
-I am a Siberian Husky with striking blue eyes and beautiful black-and-white markings. My role includes boosting school spirit, entertaining crowds, and representing NIU at various events.
+I'm a determined individual who loves to work with others and with technology! My current emphasis is with Enterprise Software with the end goal of developing software and video games using various coding languages and engines!
 
 ### Background
 
-I was born in British Columbia, Canada, and joined the NIU family when I was three months old. I come from a line of champion dogs known for their great temperaments and love for children. My breeder gave me special training to prepare me for my important role as a university mascot.
+I was born in Princeton, Illinois and I became a Huskie at NIU in the Fall of 2024. I'd been researching different universities across the United States but NIU really spoke to me. It was close to home, had an affordable tuition, and had a great computer science program! I made the final decision to commit to NIU and I don't regret it one bit.
 
-Before coming to NIU, I received early socialization training to help me adapt to various situations. This included exposure to hats, coats, loud noises, and other novel experiences. I'm known for my bravery and eagerness to try new things, which are essential qualities for a mascot who often faces unexpected situations.
+Before coming to NIU, I dabbled in programming here and there but my main passion was music. I held a leadership role (Drum Major) in my high school band (Princeton High School) which really helped me connect with others and get more comfortable presenting myself! Performing in front of others, putting everything I had practiced out there for everyone to see, was an experience I wouldn't trade for the world.
 
-When I'm not representing NIU at events, I enjoy playing with my toys, going for walks around campus, and meeting new people. I'm looking forward to fully stepping into my role and becoming an integral part of the Huskie Nation!
+When I'm not working on my classwork, I'm usually interacting with friends, programming my own projects (mainly video games), or finding another way to relax!
