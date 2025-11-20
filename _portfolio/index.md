@@ -8,7 +8,8 @@ permalink: /portfolio/index.html
 *The following publications are fictional, and are only intended for this job market website demo.*
 
 # Research
-<details markdown="1"><summary>Blog Title</summary>
+<details markdown="1">
+<summary>Blog Title</summary>
   Blog Contents</details>
   
 <details markdown="2"><summary>Blog Title</summary>
