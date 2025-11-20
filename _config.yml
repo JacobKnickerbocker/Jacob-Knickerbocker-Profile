@@ -39,9 +39,9 @@ minimal_mistakes_skin: "contrast"
 author:
   name   : "Jacob Knickerbocker"
   avatar : "/assets/images/headshot.jpg"
-  bio    : "My name is Jacob Knickerbocker and I am currently pursuing a bachelor's degree in Computer Science at Northern Illinois University!"
+  bio    : "My name is Jacob Knickerbocker, a current NIU student with a love for technology!"
   location: "DeKalb, Illinois"
-  github : "Jacob Knickerbocker"
+  github : "JacobKnickerbocker"
   linkedin: "jacob-knickerbocker-86786b285" #This is a fake site that won't work. To add your own, make sure to include just the profile, not the full url. Eg. anna-klis-1337a150
   email  : "Knicker2004@gmail.com"
 
