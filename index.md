@@ -6,7 +6,7 @@ header:
 
 # Welcome​
 
-<img src="https://raw.githubusercontent.com/JacobKnickerbocker/Jacob-Knickerbocker-Profile/main/assets/images/headshot.jpg" width="50%" hspace="20" align="right">
+<img src="https://githubusercontent.com/JacobKnickerbocker/Jacob-Knickerbocker-Profile/blob/main/assets/images/headshot.jpg" width="50%" hspace="20" align="right">
 
 My name is Jacob Knickerbocker and I am currently pursuing a bachelor's degree in Computer Science at Northern Illinois University!
 
