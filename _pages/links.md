@@ -3,7 +3,7 @@ title: "Projects"
 header:
   image: /assets/images/niubanner.png
 classes: wide
-permalink: /contact/
+permalink: /Projects/
 ---
 
 ### GitHub
