@@ -6,15 +6,8 @@ classes: wide
 permalink: /contact/
 ---
 
-*This page is fictional and created as part of a job market website demo in Jekyll.*
-
-### Campus Office
-Northern Illinois University  
-Out on the Field  
-DeKalb, IL 60115-2825  
-
-###### Office Hours:  
-by appointment
-
-### Email  
-![image of email]({{site.baseurl}}/assets/images/email.jpg)
+### Contact Methods
+Phone: 815-915-1596
+Email: Knicker2004@gmail.com
+Linkedin: [Jacob Knickerbocker](https://www.linkedin.com/in/jacob-knickerbocker-86786b285/)
+GitHub: [Jacob Knickerbocker](https://github.com/JacobKnickerbocker)
