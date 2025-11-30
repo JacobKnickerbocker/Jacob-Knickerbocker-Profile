@@ -19,3 +19,18 @@ I was born in Princeton, Illinois and I became a Huskie at NIU in the Fall of 20
 Before coming to NIU, I dabbled in programming here and there but my main passion was music. I held a leadership role (Drum Major) in my high school band (Princeton High School) which really helped me connect with others and get more comfortable presenting myself! Performing in front of others, putting everything I had practiced out there for everyone to see, was an experience I wouldn't trade for the world.
 
 When I'm not working on my classwork, I'm usually interacting with friends, programming my own projects (mainly video games), or finding another way to relax!
+
+## Skills
+### Technical
+- Basic C++ Programming
+- Unreal Engine 5 Development (For video games)
+- Game Design
+- Windows OS Proficiency
+
+### Soft
+- Leadership
+- Teamwork
+- Critical Thinking
+- Adaptability
+- Time Management
+- Communication
