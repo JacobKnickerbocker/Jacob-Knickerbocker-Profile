@@ -196,6 +196,6 @@ I found many non-code contributions in [this](https://github.com/excalidraw/exca
 </details>
 
 <details markdown="1">
-  <summary>Blog Title</summary>
-  Blog Details
+  <summary>BP-08 - Retrospective</summary>
+  To be completed after the last class period.
 </details>
